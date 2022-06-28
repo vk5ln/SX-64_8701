@@ -1,1 +1,6 @@
-
+X1 PAL - HC49 Crystal - 17.734475 MHz - Mouser 815-AB-17.734475-B4 
+X1 NTSC - HC49 Crystal - 14.31818 MHz - Mouser 815-AB-14.31818B2 
+C1 - 0.1uF Ceramic Capacitor - Mouser 594-K104K15X7RF5UL2 
+CT1 - SMD Trimmer Capacitor 8-40 pF - Mouser 768-JZ400HV
+L1 - 2.2uH Inductor - Mouser 542-78F2R2K-RC 
+U1 - MOS 8701 Clock Generator (or replica/replacement)
