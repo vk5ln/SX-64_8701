@@ -1,5 +1,5 @@
 # SX-64_8701
-MOS8701 based clock replacement PCB for the Commodore SX-64.
+MOS8701 based replacement clock PCB for the Commodore SX-64.
 
 This PCB replaces the original SX-64 PCB clock circuit with a MOS8701 based clock. 
 
